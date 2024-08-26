@@ -1,5 +1,4 @@
 import React from 'react'
-// import { useTable } from 'react-table';
 
 const Arena = () => {
     const data = [
@@ -34,14 +33,4 @@ const Arena = () => {
   )
 }
 
-export default Arena
-
-
-// import React from 'react';
-
-
-  // Define table data
- 
-
-
-
+export default Arena;
